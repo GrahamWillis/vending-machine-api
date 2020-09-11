@@ -83,7 +83,7 @@ curl -d '{
 
 Notes:
 
-If the machine has an insufficient stock of any given denomination that is required in for chain it moves on and issues the change 
+If the machine has an insufficient stock of any given denomination that is required in for change it moves on and issues the change 
 in the next largest denomination. The machine could be improved by partially issuing from the available denomination.  
 
 In a real vending machine the change for a transaction would first attempted to be dispensed from the coins the user inserted 
