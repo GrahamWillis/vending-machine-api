@@ -1,4 +1,4 @@
-package model;
+package com.druidwood.vendingmachineapi.model;
 
 import com.fasterxml.jackson.annotation.JsonValue;
 

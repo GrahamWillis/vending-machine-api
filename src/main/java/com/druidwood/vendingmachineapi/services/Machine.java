@@ -1,6 +1,6 @@
 package com.druidwood.vendingmachineapi.services;
 
-import model.Coinage;
+import com.druidwood.vendingmachineapi.model.Coinage;
 import org.springframework.stereotype.Component;
 
 import java.util.*;

@@ -1,11 +1,11 @@
-package com.druidwood.vendingmachineapi.Controllers;
+package com.druidwood.vendingmachineapi.controllers;
 
 import com.druidwood.vendingmachineapi.services.Machine;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import model.Coinage;
-import model.InsertMsg;
-import model.InsertPayload;
+import com.druidwood.vendingmachineapi.model.Coinage;
+import com.druidwood.vendingmachineapi.model.InsertMsg;
+import com.druidwood.vendingmachineapi.model.InsertPayload;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
